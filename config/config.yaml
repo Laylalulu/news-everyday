@@ -139,6 +139,11 @@ rss:
       url: "https://seekingalpha.com/tag/wall-st-breakfast.xml"
       # max_age_days: 3               # 示例：只推送3天内的文章
 
+    - id: "investing"
+      name: "investing"
+      url: "https://www.investing.com/rss/stock_Opinion.rss"
+      # max_age_days: 1               # 示例：只推送3天内的文章
+      
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
